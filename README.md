@@ -37,5 +37,5 @@ Each day, I will add:
 This is my personal learning journey, but feel free to provide feedback or suggestions to improve the structure!
 
 ---
-📅 **Start Date:** YYYY-MM-DD  
+📅 **Start Date:** 1 March 2025  
 🎯 **Current Progress:** Updating daily!
