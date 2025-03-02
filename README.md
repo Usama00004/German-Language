@@ -10,11 +10,14 @@ Each day, I will add:
 
 ## 📂 Repository Organization
 
+```
 📁 German-Learning-Tracker/
  ├── 📂 Themes/
  ├── words.txt
  ├── sentences.txt
  ├── README.md
+```
+
 ## 🎯 Goal
 - Enhance my German vocabulary and comprehension skills.
 - Improve sentence construction and grammar.
