@@ -1,0 +1,5 @@
+laufen - lief - gelaufen (run)
+leihen - lieh - geliehen (lend)
+lesen - las - gelesen (read)
+liegen - lag - gelegen (lie)
+mögen - mochte - gemocht (like)
