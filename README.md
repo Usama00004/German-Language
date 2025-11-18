@@ -5,8 +5,7 @@ Welcome to my **German Learning Tracker**! This repository is dedicated to docum
 ## 📌 Structure
 Each day, I will add:
 - 📄 A PDF covering a new theme (e.g., travel, food, work-related vocabulary).
-- 📝 Five new German words with their meanings and example sentences.
-- 💬 Three commonly used sentences with translations.
+
 
 ## 📂 Repository Organization
 
