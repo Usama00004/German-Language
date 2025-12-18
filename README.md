@@ -1,6 +1,6 @@
 # German Learning Tracker
 
-Welcome to my **German Learning Tracker**! This repository is dedicated to documenting my daily progress in learning German. My goal is to improve my vocabulary, grammar, and fluency by consistently adding new content every day.
+Welcome to my **German Learning Tracker**! This repository is dedicated to documenting my daily progress in learning German. My goal is to improve my vocabulary, grammar, and fluency by consistently adding new content every day. 
 
 ## 📌 Structure
 Each day, I will add: 
