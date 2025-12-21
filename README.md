@@ -8,7 +8,7 @@ Each day, I will add:
 
 
 ## 📂 Repository Organization
-
+ 
 ```
 📁 German-Learning-Tracker/
  ├── 📂 Themes/
