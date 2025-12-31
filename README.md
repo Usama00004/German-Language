@@ -15,7 +15,7 @@ Each day, I will add:
  ├── words.txt
  ├── sentences.txt
  ├── README.md
-```
+``` 
 
 ## 🎯 Goal
 - Enhance my German vocabulary and comprehension skills.
