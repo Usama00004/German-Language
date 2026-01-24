@@ -21,7 +21,7 @@ Each day, I will add:
 - Enhance my German vocabulary and comprehension skills.
 - Improve sentence construction and grammar.
 - Build a strong habit of daily learning.
-
+  
 ## 🚀 How to Use
 - Browse through the daily folders to review new words and sentences.
 - Download PDFs to learn about different themes.
