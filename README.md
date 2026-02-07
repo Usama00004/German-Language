@@ -6,7 +6,7 @@ Welcome to my **German Learning Tracker**! This repository is dedicated to docum
 Each day, I will add: 
 - 📄 A PDF covering a new theme.    
 
-   
+
 ## 📂 Repository Organization
  
 ```
