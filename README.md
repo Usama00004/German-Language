@@ -7,7 +7,7 @@ Each day, I will add:
 - 📄 A PDF covering a new theme.    
 
 
-## 📂 Repository Organization
+## 📂 Repository Organization 
  
 ```
 📁 German-Learning-Tracker/ 
