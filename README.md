@@ -18,7 +18,7 @@ Each day, I will add:
 ``` 
 
 ## 🎯 Goal
-- Enhance my German vocabulary and comprehension skills.
+- Enhance my German vocabulary and comprehension skills. 
 - Improve sentence construction and grammar.
 - Build a strong habit of daily learning. 
   
