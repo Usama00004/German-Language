@@ -10,7 +10,7 @@ Each day, I will add:
 ## 📂 Repository Organization 
  
 ```
-📁 German-Learning-Tracker/ 
+📁 German-Learning-Tracker/  
  ├── 📂 Themes/  
  ├── words.txt   
  ├── sentences.txt
