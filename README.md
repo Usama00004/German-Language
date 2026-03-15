@@ -11,7 +11,7 @@ Each day, I will add:
  
 ```
 📁 German-Learning-Tracker/  
- ├── 📂 Themes/  
+ ├── 📂 Themes/   
  ├── words.txt    
  ├── sentences.txt
  ├── README.md
